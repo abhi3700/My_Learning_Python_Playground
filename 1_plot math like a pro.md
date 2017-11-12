@@ -84,3 +84,5 @@ print('Error: {}'.format(error))
 
     Error: 0.0
     
+### References: 
+1.http://nbviewer.jupyter.org/github/barbagroup/jupyter-tutorial/blob/master/3--Jupyter%20like%20a%20pro.ipynb
