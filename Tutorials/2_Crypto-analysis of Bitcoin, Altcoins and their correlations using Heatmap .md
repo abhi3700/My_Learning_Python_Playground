@@ -459,5 +459,9 @@ That's all for now........
 
 ### Stay tuned for more such tutorials...
 
+## View in [Steemit](https://steemit.com/utopian-io/@abhi3700/6rjxph-python-playground-2-crypto-analysis-of-bitcoin-altcoins-and-their-correlations-using-heatmap)
+
+## View in [Utopian](https://utopian.io/utopian-io/@abhi3700/6rjxph-python-playground-2-crypto-analysis-of-bitcoin-altcoins-and-their-correlations-using-heatmap)
+
 ## Resources
 * ANALYZING CRYPTOCURRENCY MARKETS USING PYTHON - https://blog.patricktriest.com/analyzing-cryptocurrencies-python/
