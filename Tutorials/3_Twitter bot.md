@@ -1,6 +1,11 @@
 # How to Create a Twitter bot
 ## Twitter Bot API
 
+**Notify me about followings**:
+
+@pythonbeginners
+@eos_io
+
 
 ## Resources
 * https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library
